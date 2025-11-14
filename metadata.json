@@ -1,0 +1,5 @@
+{
+  "name": "Clarryson Multi-Modal Studio",
+  "description": "An all-in-one application to edit images, analyze images and videos, and generate new images using the power of Google's Gemini and Imagen models.",
+  "requestFramePermissions": []
+}
